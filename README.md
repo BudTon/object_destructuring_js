@@ -14,7 +14,7 @@
 
 ## Destructuring
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/e91s4khat40hyk1m?svg=true)](https://ci.appveyor.com/project/BudTon/object-destructuring-js)
 
 ### Легенда
 
